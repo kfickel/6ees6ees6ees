@@ -5,7 +5,6 @@ class ForagerBee extends Grub {
     this.age = 10;
     this.job = 'find pollen';
     this.color = 'yellow';
-    super.food;
     this.canFly = true;
     this.treasureChest = [];
   }
